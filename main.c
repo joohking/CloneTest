@@ -2,7 +2,8 @@
 
 int main(void)
 {
-    printf("Version 1.0 by Master");
-    printf("Version 2.0 by Master");
+    printf("Version 1.0 by jhpark");
+    printf("Version 2.0 by jhpark");
+    printf("Version 3.0 by jhpark-si");
     return 0;
 }
